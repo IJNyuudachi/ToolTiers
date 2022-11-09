@@ -1,0 +1,12 @@
+{
+  "id": "tool_tiers",
+  "minversion": 202200200000,
+  "weight": 5,
+  "info": {
+    "name": "Tool Tiers",
+    "version": "1.0.0",
+    "description": "Makes Tool tiers more accessible",
+    "author": "Yuudachi",
+    "updateJSONURL": "https://raw.githubusercontent.com/IJNyuudachi/ToolTiers/main/update.json"
+  }
+}
